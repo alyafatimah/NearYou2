@@ -54,11 +54,16 @@ NearYou3/
 - Fitur ini belum menggunakan pelacakan lokasi GPS atau basis data online.
 - Screenshot aplikasi dapat ditambahkan ke folder `screenshots/` dan ditautkan di bagian ini.
 
-## Screenshot
+## Screenshots
 
-Tambahkan tangkapan layar aplikasi ke folder `screenshots/`, lalu gunakan format berikut:
+### Screen 1 - Home (Semua)
+![Screen 1](ss1.jpeg)
 
-```markdown
-![Home NearYou](screenshots/Screen1.png)
-![Hasil Pencarian NearYou](screenshots/Screen2.png)
-```
+### Screen 2 - Home (Teman)
+![Screen 2](ss2.jpeg)
+
+### Screen 3 - Home (Tempat)
+![Screen 3](ss3.jpeg)
+
+### Screen 4 - Hasil Pencarian
+![Screen 4](ss4.jpeg)
