@@ -67,3 +67,6 @@ NearYou3/
 
 ### Screen 4 - Hasil Pencarian
 ![Screen 4](ss4.jpeg)
+
+## Demo Aplikasi NearYou
+[Klik di sini untuk melihat Demo Aplikasi NearYou](https://drive.google.com/drive/folders/1qvLpvWGRD62TNWtuBqurhI08i1KlaZuU?usp=sharing)
